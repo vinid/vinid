@@ -2,7 +2,7 @@
 
 I am Federico! a Postdoctoral Researcher at Bocconi University where I work on Natural Language Processing and related stuff. I like programming and many of the projects I run have an open source implementation! 🔭 
 
-You can check my [website](http://vinid.io) out to know more about me, you can also follow/tag me on [Twitter](http://twitter.com/fb_vinid).
+You can check out my [website](https://federicobianchi.io) to know more about me, you can also follow/tag me on [Twitter](http://twitter.com/fb_vinid).
 
 <!--
 **vinid/vinid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
