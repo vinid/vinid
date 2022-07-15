@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Federico! a Postdoctoral Researcher at Bocconi University where I work on Natural Language Processing and related stuff. I like programming and many of the projects I run have an open source implementation! 🔭 
+I am Federico! a Postdoctoral Researcher at Stanford University where I work on Natural Language Processing and related stuff. I like programming and many of the projects I run have an open source implementation! 🔭 
 
 You can check out my [website](https://federicobianchi.io) to know more about me, you can also follow/tag me on [Twitter](http://twitter.com/federicobianchy).
 
