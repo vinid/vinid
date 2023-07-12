@@ -4,8 +4,6 @@ I am Federico! a Postdoctoral Researcher at Stanford University where I work on 
 
 You can check out my [website](https://federicobianchi.io) to know more about me, you can also follow/tag me on [Twitter](http://twitter.com/federicobianchy).
 
-[![vinid's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinid)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **vinid/vinid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
