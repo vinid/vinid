@@ -4,17 +4,14 @@ I am Federico! a Postdoctoral Researcher at Stanford University where I work on 
 
 You can check out my [website](https://federicobianchi.io) to know more about me, you can also follow/tag me on [Twitter](http://twitter.com/federicobianchy).
 
-<!--
-**vinid/vinid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Recent Papers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📚 [Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale
+ (FAACT2023)](https://arxiv.org/abs/2211.03759)
+* 📚 [When and Why Vision-Language Models Behave like Bags-Of-Words, and What to Do About It? (ICLR2023)](https://openreview.net/forum?id=KRLUvxh8uaX)
+
+### Blog Posts
+
+* 📕 [Teaching CLIP Some Fashion](https://towardsdatascience.com/teaching-clip-some-fashion-3005ac3fdcc3)
+* 📕 [How to Train Your CLIP](https://towardsdatascience.com/how-to-train-your-clip-45a451dcd303)
