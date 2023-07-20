@@ -13,6 +13,6 @@ You can check out my [website](https://federicobianchi.io) to know more about me
 
 ### Recent Blog Posts
 
-* 📕 [Fine-tuning a Large Language Model using Metaflow, featuring LLaMA and LoRA]([https://towardsdatascience.com/how-to-train-your-clip-45a451dcd303](https://outerbounds.com/blog/llm-tuning-metaflow/))
+* 📕 [Fine-tuning a Large Language Model using Metaflow, featuring LLaMA and LoRA](https://outerbounds.com/blog/llm-tuning-metaflow/)
 * 📕 [Teaching CLIP Some Fashion](https://towardsdatascience.com/teaching-clip-some-fashion-3005ac3fdcc3)
 * 📕 [How to Train Your CLIP](https://towardsdatascience.com/how-to-train-your-clip-45a451dcd303)
