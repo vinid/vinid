@@ -7,7 +7,7 @@ You can check out my [website](https://federicobianchi.io) to know more about me
 
 ### Recent Papers
 
-* 📚 [Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models that Follow Instructions](https://openreview.net/forum?id=gT5hALch9z0
+* 📚 [Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models that Follow Instructions](https://openreview.net/forum?id=gT5hALch9z0)
 * 📚 [A visual–language foundation model for pathology image analysis using medical Twitter
  (Nature Medicine 2023)](https://www.nature.com/articles/s41591-023-02504-3)
 * 📚 [Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale
