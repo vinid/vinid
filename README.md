@@ -7,8 +7,9 @@ You can check out my [website](https://federicobianchi.io) to know more about me
 
 ### Recent Papers
 
+* 📚 [Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models that Follow Instructions](https://openreview.net/forum?id=gT5hALch9z0
 * 📚 [A visual–language foundation model for pathology image analysis using medical Twitter
- (Nature Medicine)](https://www.nature.com/articles/s41591-023-02504-3)
+ (Nature Medicine 2023)](https://www.nature.com/articles/s41591-023-02504-3)
 * 📚 [Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale
  (FAACT2023)](https://arxiv.org/abs/2211.03759)
 * 📚 [When and Why Vision-Language Models Behave like Bags-Of-Words, and What to Do About It? (ICLR2023)](https://openreview.net/forum?id=KRLUvxh8uaX)
