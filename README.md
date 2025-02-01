@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Federico, AI Engineer at [Xyla](https://xyla.com/). I previously was a Postdoctoral Researcher at Stanford University. 
+I am Federico, Senior ML Scientist at TogetherAI. I previously was a Postdoctoral Researcher at Stanford University. 
 
 You can check out my [website](https://federicobianchi.io) to know more about me, you can also follow/tag me on [Twitter](http://twitter.com/federicobianchy).
 
