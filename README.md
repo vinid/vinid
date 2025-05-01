@@ -6,6 +6,7 @@ You can check out my [website](https://federicobianchi.io) to know more about me
 
 ### Research:
 
+* 📚 [Optimizing generative AI by backpropagating language model feedback (**Nature 2025**)](https://www.nature.com/articles/s41586-025-08661-4#Ack1)
 * 📚 [Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models that Follow Instructions (**ICLR2024**)](https://openreview.net/forum?id=gT5hALch9z0)
 * 📚 [A visual–language foundation model for pathology image analysis using medical Twitter
  (**Nature Medicine 2023**)](https://www.nature.com/articles/s41591-023-02504-3)
