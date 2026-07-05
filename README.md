@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Federico, Senior ML Scientist at TogetherAI. I build agents ([self-improving agents](https://www.nature.com/articles/s41586-025-08661-4), [data science agents](https://www.together.ai/blog/building-an-autonomous-and-open-data-scientist-agent-from-scratch), [deep research agents](https://www.together.ai/blog/open-deep-research)). I previously was a Postdoctoral Researcher at Stanford University. 
+I am Federico, Staff Scientist at TogetherAI. I build agents ([self-improving agents](https://www.nature.com/articles/s41586-025-08661-4), [data science agents](https://www.together.ai/blog/building-an-autonomous-and-open-data-scientist-agent-from-scratch), [deep research agents](https://www.together.ai/blog/open-deep-research)). I previously was a Postdoctoral Researcher at Stanford University. 
 
 You can check out my [website](https://federicobianchi.io) to know more about me, you can also follow/tag me on [Twitter](http://twitter.com/federicobianchy).
 
