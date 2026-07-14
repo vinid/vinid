@@ -6,6 +6,8 @@ You can check out my [website](https://federicobianchi.io) to know more about me
 
 ### Research:
 
+* 📚 [Exploring the use of AI authors and reviewers at Agents4Science (**Nature Biotechnology 2026**)](https://www.nature.com/articles/s41587-025-02963-8)
+* 📚 [Learning to Discover at Test Time (**ICML 2026**)](https://arxiv.org/abs/2601.16175)
 * 📚 [Optimizing generative AI by backpropagating language model feedback (**Nature 2025**)](https://www.nature.com/articles/s41586-025-08661-4)
 * 📚 [Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models that Follow Instructions (**ICLR2024**)](https://openreview.net/forum?id=gT5hALch9z0)
 * 📚 [A visual–language foundation model for pathology image analysis using medical Twitter
@@ -14,9 +16,3 @@ You can check out my [website](https://federicobianchi.io) to know more about me
  (**FAACT2023**)](https://arxiv.org/abs/2211.03759)
 * 📚 [When and Why Vision-Language Models Behave like Bags-Of-Words, and What to Do About It? (**ICLR2023**)](https://openreview.net/forum?id=KRLUvxh8uaX)
 
-### Blog Posts:
-
-* 📕 **New:** [From Zero to One: Building An Autonomous and Open Data Scientist Agent from Scratch](https://www.together.ai/blog/building-an-autonomous-and-open-data-scientist-agent-from-scratch)
-* 📕 [Fine-tuning a Large Language Model using Metaflow, featuring LLaMA and LoRA](https://outerbounds.com/blog/llm-tuning-metaflow/)
-* 📕 [Teaching CLIP Some Fashion](https://towardsdatascience.com/teaching-clip-some-fashion-3005ac3fdcc3)
-* 📕 [How to Train Your CLIP](https://towardsdatascience.com/how-to-train-your-clip-45a451dcd303)
